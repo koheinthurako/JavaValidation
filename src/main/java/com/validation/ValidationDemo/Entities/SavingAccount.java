@@ -1,4 +1,4 @@
-package com.validation.ValidationDemo;
+package com.validation.ValidationDemo.Entities;
 
 import java.time.LocalDate;
 
