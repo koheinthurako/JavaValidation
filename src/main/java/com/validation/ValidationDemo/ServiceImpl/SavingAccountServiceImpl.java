@@ -44,4 +44,12 @@ public class SavingAccountServiceImpl implements SavingAccountService {
 	}
 	
 	
+//	For Testing
+	public int deposit(int amount) {
+		int original = 10000;
+		return amount + original;
+	}
+	
+	
+	
 }
