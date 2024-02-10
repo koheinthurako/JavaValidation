@@ -11,5 +11,7 @@ public interface SavingAccountService {
 	
 	public List<SavingAccount> getAll();
 	public SavingAccount save(SavingAccount acc);
-
+	public SavingAccount getById(int id);
+	public String withdraw(int amt);
+	
 }
